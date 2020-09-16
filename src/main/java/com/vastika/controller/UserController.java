@@ -1,5 +1,5 @@
 package com.vastika.controller;
 
-public class Controller {
+public class UserController {
 
 }
